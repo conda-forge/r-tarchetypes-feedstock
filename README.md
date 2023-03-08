@@ -1,11 +1,11 @@
-About r-tarchetypes
-===================
+About r-tarchetypes-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tarchetypes-feedstock/blob/main/LICENSE.txt)
 
 Home: https://docs.ropensci.org/tarchetypes/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tarchetypes-feedstock/blob/main/LICENSE.txt)
 
 Summary: Function-oriented Make-like declarative workflows for Statistics and data science are supported in the 'targets' R package. As an extension to 'targets', the 'tarchetypes' package provides convenient user-side functions to make 'targets' easier to use. By establishing reusable archetypes for common kinds of targets and pipelines, these functions help express complicated reproducible workflows concisely and compactly. The methods in this package were influenced by the 'drake' R package by Will Landau (2018) <doi:10.21105/joss.00550>.
 
