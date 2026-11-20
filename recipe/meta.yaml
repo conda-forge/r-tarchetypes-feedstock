@@ -1,4 +1,4 @@
-{% set version = "0.14.1" %}
+{% set version = "0.14.2" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/tarchetypes_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/tarchetypes/tarchetypes_{{ version }}.tar.gz
-  sha256: df3d78bcafafde96a927eb785c356a5652ae3495808ed22e8267ba1650cde2c4
+  sha256: 9a50070750091253df9355fd77d53f967ea005da029ce9aa5df059c718948762
 
 build:
   number: 0
